@@ -57,7 +57,7 @@ If I were to start learning DevOps or SRE today, I'd follow this comprehensive r
 - [Linux Performance Analysis in 60s (video)](https://www.brendangregg.com/blog/2015-12-03/linux-perf-60s-video.html): Essential performance debugging
 - [Ops School Curriculum](https://www.opsschool.org/): Comprehensive operations course
 - [Wargames by OverTheWire](https://overthewire.org/wargames/): Security and sysadmin challenges
-- [Damn Vulnerable Linux](http://www.damnvulnerablelinux.org/): Security practice
+- [Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/): Security practice 'hands-on'
 
 ### 2. Chaos Engineering
 - [Chaos Monkey](https://netflix.github.io/chaosmonkey/): Netflix's resilience testing tool
