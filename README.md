@@ -7,7 +7,7 @@ If I were to start learning DevOps or SRE today, I'd follow this comprehensive r
 
 ### 1. Coding & Algorithms
 - [NeetCode 150](https://neetcode.io/practice?tab=neetcode150): Essential coding interview problems
-- [Data Structures And Algorithms Made Easy by Narasimha Karumanchi](https://www.amazon.co.uk/Narasimha-Karumanchi/e/B004S7ZXQM/ref=dp_byline_cont_ebooks_1)
+- [Data Structures And Algorithms Made Easy by Narasimha Karumanchi](https://www.amazon.co.uk/Data-Structures-Algorithms-Made-Easy/dp/8193245288#averageCustomerReviewsAnchor)
 
 ### 2. Operating Systems & Linux
 - [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554): My go-to resource for any Linux interview
