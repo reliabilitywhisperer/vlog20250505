@@ -19,9 +19,9 @@ If I were to start learning DevOps or SRE today, I'd follow this comprehensive r
 - [How Linux Works](https://nostarch.com/howlinuxworks3): What every superuser should know
 
 ### 3. Networking Fundamentals
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/): Socket programming introduction
 - [Networking@ReliabilityWhisperer](https://reliabilitywhisperer.substack.com/t/networking)
 - [Practical Packet Analysis](https://www.amazon.co.uk/Practical-Packet-Analysis-Wireshark-Real-World/dp/1593272669): Using Wireshark to solve real-world problems
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/): Socket programming introduction
 - [Cloudflare Learning Center](https://www.cloudflare.com/learning/): Great explanations of networking concepts
 
 ### 4. Containerization & Orchestration
