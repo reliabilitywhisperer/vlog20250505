@@ -9,7 +9,7 @@ If I were to start learning DevOps or SRE today, I'd follow this comprehensive r
 - [Project Euler](https://projecteuler.net/archives)
 - [Data Structures And Algorithms Made Easy by Narasimha Karumanchi](https://www.amazon.co.uk/Data-Structures-Algorithms-Made-Easy/dp/8193245288#averageCustomerReviewsAnchor)
 - [NeetCode 150](https://neetcode.io/practice?tab=neetcode150): Essential coding interview problems
-- [Clean code by uncle bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj&ab_channel=UnityCoin) - For preparing for Google Code Reviews interview(Engineering manager)
+- [Clean code by uncle bob(1-5 videos)](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj&ab_channel=UnityCoin) - For preparing for Google Code Reviews interview(Engineering manager)
   - [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) 
 
 ### 2. Operating Systems & Linux
