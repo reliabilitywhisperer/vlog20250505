@@ -31,34 +31,31 @@ unshare --mount bash
 
 ## Creating a Minimal Container
 
-### Prerequisites
-1. Clone the minimal shell:
-   ```bash
-   git clone https://github.com/vnnm404/mish.git
-   cd mish/src
-   make
-   ```
+Download base image to be used as new file system : `alpine-rootfs`
 
-2. Install dependencies:
-   ```bash
-   git clone https://github.com/emptymonkey/ctty
-   cd ctty
-   make
-   cp ctty ../../
-   cd ../../
+
+   ```
+   mkdir ~/container
+   cd ~/container
+   wget https://dl-cdn.alpinelinux.org/alpine/v3.16/releases/x86_64/alpine-minirootfs-3.16.0-x86_64.tar.gz
+   mkdir alpine-rootfs
+   tar -xzf alpine-minirootfs-3.16.0-x86_64.tar.gz -C alpine-rootfs
    ```
 
 ### Creating a Root Filesystem
 1. Bind mount the directory:
    ```bash
-   mount --bind ./mish ./mish
+   cd alpine-rootfs
+   mount --bind ./alpine-rootfs ./alpine-rootfs
    ```
 
 2. Create namespaces and switch to the new root:
    ```bash
-   unshare --pid --mount --fork ./mish/sh
+   unshare --pid --mount --fork bash
    pivot_root . ./old_root
    ```
+
+   Now, if you do `ls` you will se alpine files mounted on `/`
 
 ### Working in the New Environment
 - Without standard utilities, use shell builtins:
