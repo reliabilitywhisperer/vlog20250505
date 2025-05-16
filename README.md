@@ -29,6 +29,7 @@ If I were to start learning DevOps or SRE today, I'd follow this comprehensive r
 ### 4. Containerization & Orchestration
 - [Kubernetes Up & Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531): Essential K8s knowledge
 - [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808): Comprehensive Docker guide
+  - [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8&ab_channel=Docker)
 - [Kubernetes the Hard Way by kelsey](https://github.com/kelseyhightower/kubernetes-the-hard-way): In-depth K8s setup exercise
 - [Container.Training](https://container.training/): Free container workshops
 
